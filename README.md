@@ -1,6 +1,6 @@
-# Objects c
+# Objects c 
 
-## Learning Goals
+## Learning Goals c
 
 - Identify JavaScript `Object`s
 - Access a value stored in an `Object`
